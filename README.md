@@ -1,16 +1,8 @@
 # associates_2023
 
-A new Flutter project.
+Updated version of repo project: https://github.com/OdongoWaga/associates
+Many warnning and errors from the recent packages update were fixed so it should work with most recent flutters (starting from 1st March)
 
-## Getting Started
+## Yet to do
+The need retructurize to be simpler to read.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
